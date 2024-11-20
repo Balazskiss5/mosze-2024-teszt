@@ -31,6 +31,6 @@ int main()
 
     // Memória felszabadítása
     delete[] b;
-
+    std::cout << "Program vége."<<std::endl;
     return 0;
 }
